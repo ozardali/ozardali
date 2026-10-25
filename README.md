@@ -84,7 +84,7 @@ In my free time, I like to explore new technologies and AI agents, and I build s
       <img src="https://img.shields.io/badge/Web-302b63?style=flat-square&logo=safari&logoColor=white" />
     </td>
     <td width="50%">
-      <h3><a href="https://abyssos.goksel.dev">Abyssos</a> 🌊</h3>
+      <h3><a href="https://playabyssos.com">Abyssos</a> 🌊</h3>
       <p>A deep-sea strategy game I'm building for fun.</p>
       <img src="https://img.shields.io/badge/Game-302b63?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiA1aDMuNWE1IDUgMCAwIDEgMCAxMGgtNS41bC00LjAxNSA0LjIyN2EyLjMgMi4zIDAgMCAxIC0zLjkyMyAtMi4wMzVsMS42MzQgLTguMTczYTUgNSAwIDAgMSA0LjkwNCAtNC4wMTloMy40eiIvPjxwYXRoIGQ9Ik0xNCAxNWw0LjA3IDQuMjg0YTIuMyAyLjMgMCAwIDAgMy45MjUgLTIuMDIzbC0xLjYgLTguMjMyIi8%2BPHBhdGggZD0iTTggOXYyIi8%2BPHBhdGggZD0iTTcgMTBoMiIvPjxwYXRoIGQ9Ik0xNCAxMGgyIi8%2BPC9zdmc%2B" />
       <img src="https://img.shields.io/badge/Web-302b63?style=flat-square&logo=safari&logoColor=white" />
