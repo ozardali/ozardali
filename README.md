@@ -43,38 +43,38 @@
 <table>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/ozardali/voice-transcriber">voice-transcriber</a></h3>
+      <p>Offline speech-to-text for any audio or video, powered by Whisper (faster-whisper). 100 languages, private, on Windows, macOS and Linux.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/ozardali/voice-transcriber?style=flat-square" />
+    </td>
+    <td width="50%">
       <h3><a href="https://github.com/ozardali/SortDrop">SortDrop</a></h3>
       <p>A free, open-source macOS app that sorts your Downloads folder using custom rules.</p>
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/github/stars/ozardali/SortDrop?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/ozardali/local-pdf-compress">local-pdf-compress</a></h3>
       <p>Compress PDFs locally with no uploads, via a web UI and CLI powered by Ghostscript.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/github/stars/ozardali/local-pdf-compress?style=flat-square" />
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github.com/ozardali/ghost-multi-site-migrate">ghost-multi-site-migrate</a></h3>
       <p>Migrate multiple Ghost CLI sites into a single Ghost Docker stack.</p>
       <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
       <img src="https://img.shields.io/github/stars/ozardali/ghost-multi-site-migrate?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3><a href="https://github.com/ozardali/NestMembership">NestMembership</a></h3>
       <p>NestJS membership and subscription system with registration, profiles, JWT auth, and protected routes.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/github/stars/ozardali/NestMembership?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/ozardali/voice-transcriber">voice-transcriber</a></h3>
-      <p>Offline speech-to-text for any audio or video, powered by Whisper (faster-whisper). 100 languages, private, on Windows, macOS and Linux.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/ozardali/voice-transcriber?style=flat-square" />
     </td>
     <td width="50%"></td>
   </tr>
