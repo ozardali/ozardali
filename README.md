@@ -69,6 +69,15 @@
       <img src="https://img.shields.io/github/stars/ozardali/NestMembership?style=flat-square" />
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/ozardali/voice-transcriber">voice-transcriber</a></h3>
+      <p>Offline speech-to-text for any audio or video, powered by Whisper (faster-whisper). 100 languages, private, on Windows, macOS and Linux.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/ozardali/voice-transcriber?style=flat-square" />
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 ## 🎮 Hobby projects
